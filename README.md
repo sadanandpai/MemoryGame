@@ -1,6 +1,9 @@
 # Memory Game
 
-Live demo: https://sadanandpai.github.io/MemoryGame/build/
+<a href="https://sadanandpai.github.io/MemoryGame/build/">
+  <img src="https://github.com/sadanandpai/MemoryGame/blob/master/demo.PNG" />
+</a>
+Click on the image to play the game
 
 ### Technologies
 - React
