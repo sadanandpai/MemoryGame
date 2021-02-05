@@ -2,8 +2,10 @@
 
 <a href="https://sadanandpai.github.io/MemoryGame/build/">
   <img src="https://github.com/sadanandpai/MemoryGame/blob/master/demo.PNG" />
-</a>
+</a><br/>
 Click on the image to play the game
+
+
 
 ### Technologies
 - React
